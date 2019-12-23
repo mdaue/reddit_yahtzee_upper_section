@@ -1,2 +1,6 @@
 # Yahtzee Upper Section Scoring
 Inspired by: https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/
+
+# Sample
+`cargo build`
+`target/debug/yahtzee_upper_section_scoring 1 2 5 5 1` -> 10
