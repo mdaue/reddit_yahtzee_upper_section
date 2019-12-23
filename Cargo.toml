@@ -1,0 +1,11 @@
+[package]
+name = "yahtzee_upper_section_scoring"
+version = "0.1.0"
+authors = ["Matt Daue <mattdaue@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+# Inspiration: https://www.reddit.com/r/dailyprogrammer/comments/dv0231/20191111_challenge_381_easy_yahtzee_upper_section/
+
+[dependencies]
